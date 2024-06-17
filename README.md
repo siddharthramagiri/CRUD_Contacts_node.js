@@ -1,2 +1,2 @@
-This Project includes BACKEND FROM NODE.JS - (CRUD) API's - MONGOO.DB 
-Used for Registering / Loggingin / Any one can Save the users contacts in this Contact Book 
+This Project based on BACKEND DEVELOPMENT with NODE.JS - (CRUD) API's - MONGOO.DB -
+Users can Registering/Loggingin their Accounts and Save contacts in this Contact Book 
